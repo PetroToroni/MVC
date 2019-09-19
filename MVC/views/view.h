@@ -1,9 +1,6 @@
+#pragma once
 #include <iostream>
 #include <string>
-#include "models/model.h"
 #include "controlers/controler.h"
-#include "views/view.h"
-int main()
-{
-
-}
+#include "models/model.h"
+using namespace std;
